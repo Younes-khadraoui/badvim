@@ -1,0 +1,6 @@
+// env vars
+.env
+.env.local
+
+// logs 
+.log
