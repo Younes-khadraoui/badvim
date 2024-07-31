@@ -5,7 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/younes-khadraoui/badvim/"
+	"github.com/younes-khadraoui/badvim/pkg"
+	"github.com/younes-khadraoui/badvim/internal"
 )
 
 func main() {
